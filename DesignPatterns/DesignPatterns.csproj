@@ -66,6 +66,8 @@
     <Compile Include="Patterns\14_Iterator\IteratorTest.cs" />
     <Compile Include="Patterns\15_Observer\ObserverInDotNet.cs" />
     <Compile Include="Patterns\15_Observer\ObserverTest.cs" />
+    <Compile Include="Patterns\15_Observer\ObserverTest2.cs" />
+    <Compile Include="Patterns\16_Mediator\MediatorTest.cs" />
     <Compile Include="Patterns\_Base\IMain.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
