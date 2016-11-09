@@ -16,6 +16,7 @@ using DesignPatterns.Patterns._13_Command;
 using DesignPatterns.Patterns._14_Iterator;
 using DesignPatterns.Patterns._15_Observer;
 using DesignPatterns.Patterns._16_Mediator;
+using DesignPatterns.Patterns._17_State;
 using DesignPatterns.Patterns._Base;
 using System;
 using System.Linq;
@@ -91,7 +92,10 @@ namespace DesignPatterns {
 			//program = new ObserverInDotNet();
 
 			//16_Mediator : http://blog.jobbole.com/78124/
-			program = new MediatorTest();
+			//program = new MediatorTest();
+
+			//17_State : http://blog.jobbole.com/78126/
+			program = new StateTest();
 
 			#endregion
 
