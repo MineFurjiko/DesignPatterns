@@ -95,7 +95,9 @@ namespace DesignPatterns {
 			//program = new MediatorTest();
 
 			//17_State : http://blog.jobbole.com/78126/
-			program = new StateTest();
+			//program = new StateTest();
+			//program = new StateAndMediatorTest();
+			program = new StateSimpleTest();
 
 			#endregion
 
