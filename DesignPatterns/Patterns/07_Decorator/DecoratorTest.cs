@@ -5,6 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//装饰者模式:以对客户透明的方式动态地给一个对象附加上更多的责任，装饰者模式相比生成子类可以更灵活地增加功能。
 namespace DesignPatterns.Patterns._07_Decorator {
 	/// <summary>
 	/// 手机抽象类，即装饰者模式中的抽象组件类

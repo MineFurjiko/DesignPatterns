@@ -5,7 +5,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-//适配器模式
+//适配器模式:把一个类的接口变换成客户端所期待的另一种接口
+//从而使原本接口不匹配而无法一起工作的两个类能够在一起工作。
 namespace DesignPatterns.Patterns._05_Adapter {
 	interface IHoleUsing {
 		void Request();

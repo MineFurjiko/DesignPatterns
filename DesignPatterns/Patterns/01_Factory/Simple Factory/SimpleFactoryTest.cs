@@ -6,6 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//简单工厂模式
 namespace DesignPatterns.Patterns._01_Factory.Simple_Factory {
 	/// <summary>
 	/// BMW工厂类

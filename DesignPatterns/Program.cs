@@ -18,6 +18,9 @@ using DesignPatterns.Patterns._15_Observer;
 using DesignPatterns.Patterns._16_Mediator;
 using DesignPatterns.Patterns._17_State;
 using DesignPatterns.Patterns._18_Stragety;
+using DesignPatterns.Patterns._19_ChainOfResponsibility;
+using DesignPatterns.Patterns._20_Vistor;
+using DesignPatterns.Patterns._21_Memento;
 using DesignPatterns.Patterns._Base;
 using System;
 using System.Linq;
@@ -101,7 +104,16 @@ namespace DesignPatterns {
 			//program = new StateSimpleTest();
 
 			//18_Stragety : http://tracefact.net/Design-Pattern/Strategy.aspx
-			program = new StragetyTest();
+			//program = new StragetyTest();
+
+			//19_Chain of Responsibility
+			//program = new ChainOfResponsibilityTest();
+
+			//20_Vistor : http://blog.jobbole.com/78132/
+			//program = new VistorTest();
+
+			//21_Memento : http://blog.jobbole.com/78136/
+			program = new MementoTest();
 
 			#endregion
 

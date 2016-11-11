@@ -4,7 +4,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+//策略模式:是针对一组算法，将每个算法封装到具有公共接口的独立的类中，从而使它们可以相互替换。
+//策略模式使得算法可以在不影响到客户端的情况下发生变化。
 namespace DesignPatterns.Patterns._18_Stragety {
 
 	#region 封装 UseWeapon() 行为

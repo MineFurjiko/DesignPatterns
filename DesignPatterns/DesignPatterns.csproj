@@ -72,6 +72,9 @@
     <Compile Include="Patterns\17_State\StateSimpleTest.cs" />
     <Compile Include="Patterns\17_State\StateTest.cs" />
     <Compile Include="Patterns\18_Stragety\StragetyTest.cs" />
+    <Compile Include="Patterns\19_ChainOfResponsibility\ChainOfResponsibilityTest.cs" />
+    <Compile Include="Patterns\20_Vistor\VistorTest.cs" />
+    <Compile Include="Patterns\21_Memento\MementoTest.cs" />
     <Compile Include="Patterns\_Base\IMain.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

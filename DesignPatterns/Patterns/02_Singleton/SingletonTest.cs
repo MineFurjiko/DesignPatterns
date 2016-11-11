@@ -5,6 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//单例模式:确保一个类只有一个实例,并提供一个全局访问点。
 namespace DesignPatterns.Patterns._02_Singleton {
 	//单例模式
 	class GameManager {

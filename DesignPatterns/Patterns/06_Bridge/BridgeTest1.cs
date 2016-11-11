@@ -5,6 +5,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//桥接模式:即将抽象部分与实现部分脱耦，使它们可以独立变化。
+
 //桥接模式 蜡笔与毛笔
 namespace DesignPatterns.Patterns._06_Bridge {
 	abstract class my_Brush {

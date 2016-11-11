@@ -6,6 +6,8 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
+//中介者模式:定义了一个中介对象来封装一系列对象之间的交互关系。
+//中介者使各个对象之间不需要显式地相互引用，从而使耦合性降低，而且可以独立地改变它们之间的交互行为。
 namespace DesignPatterns.Patterns._16_Mediator {
 	class Latter {
 		public ICommunicate Author { get; set; }

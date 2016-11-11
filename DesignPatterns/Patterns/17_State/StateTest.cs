@@ -5,6 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//状态者模式:允许一个对象在其内部状态改变时自动改变其行为，对象看起来就像是改变了它的类。
 namespace DesignPatterns.Patterns._17_State {
 
 	/// <summary>

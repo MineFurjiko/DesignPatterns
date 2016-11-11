@@ -5,6 +5,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//代理模式:就是给某一个对象提供一个代理，并由代理对象控制对原对象的引用。
+//在一些情况下，一个客户不想或者不能直接引用一个对象，而代理对象可以在客户端和目标对象之间起到中介的作用。
 namespace DesignPatterns.Patterns._11_Proxy {
 	/// <summary>
 	/// 代购能力接口

@@ -5,6 +5,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//组合模式:允许你将对象组合成树形结构来表现”部分-整体“的层次结构，使得客户以一致的方式处理单个对象以及对象的组合。
+//组合模式实现的最关键的地方是——简单对象和复合对象必须实现相同的接口。
+//这就是组合模式能够将组合对象和简单对象进行一致处理的原因。
+
 //透明式的组合模式
 namespace DesignPatterns.Patterns._08_Composite {
 	class CompositeTest1:IMain {

@@ -5,6 +5,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//迭代器模式:提供了一种方法顺序访问一个聚合对象（理解为集合对象）中各个元素，而又无需暴露该对象的内部表示
+//这样既可以做到不暴露集合的内部结构，又可让外部代码透明地访问集合内部的数据。
 namespace DesignPatterns.Patterns._14_Iterator {
 	/// <summary>
 	/// 迭代器接口

@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 using DesignPatterns.Patterns._01_Factory._Base;
 using DesignPatterns.Patterns._Base;
 
+//抽象工厂模式:提供一个创建产品的接口来负责创建相关或依赖的对象，而不具体明确指定具体类
 namespace DesignPatterns.Patterns._01_Factory.Abstract_Factory {
-
 
 	/// <summary>
 	/// Abstract Factory
