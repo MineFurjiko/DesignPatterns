@@ -71,6 +71,7 @@
     <Compile Include="Patterns\17_State\StateAndMediatorTest.cs" />
     <Compile Include="Patterns\17_State\StateSimpleTest.cs" />
     <Compile Include="Patterns\17_State\StateTest.cs" />
+    <Compile Include="Patterns\18_Stragety\StragetyTest.cs" />
     <Compile Include="Patterns\_Base\IMain.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
